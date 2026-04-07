@@ -4,7 +4,11 @@ A lightweight Python implementation of Support Tensor Regression, leveraging `sc
 
 ## Installation
 
+To use this package, clone the repository and install it locally:
+
 ```bash
+git clone https://github.com/joshdelon03-hash/support-tensor-regression.git
+cd support-tensor-regression
 pip install .
 ```
 
